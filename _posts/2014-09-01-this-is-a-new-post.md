@@ -6,6 +6,7 @@ title: This is a new post
 tags: 
   - apples
   - pears
+  - mangos
 ---
 
 ## This is header
